@@ -1,0 +1,8 @@
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/VertigoDualCamera.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/edit_cache.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/rebuild_cache.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/list_install_components.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/install.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/install/local.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/VertigoDualCamera_autogen_timestamp_deps.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/CMakeFiles/VertigoDualCamera_autogen.dir

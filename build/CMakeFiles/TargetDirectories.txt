@@ -1,0 +1,6 @@
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/CMakeFiles/VertigoDualCamera.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/CMakeFiles/edit_cache.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/CMakeFiles/rebuild_cache.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/CMakeFiles/install.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/CMakeFiles/install/local.dir
+C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/CMakeFiles/VertigoDualCamera_autogen.dir

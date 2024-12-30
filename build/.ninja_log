@@ -1,0 +1,26 @@
+# ninja log v7
+81	7155	7568965550341263	VertigoDualCamera_autogen/timestamp_Debug	90b80f129f206b1f
+81	7155	7568965550341263	VertigoDualCamera_autogen/mocs_compilation_Debug.cpp	90b80f129f206b1f
+81	7155	7568965550341263	VertigoDualCamera_autogen/include_Debug/ui_mainwindow.h	90b80f129f206b1f
+81	7155	7568965550341263	C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/VertigoDualCamera_autogen/timestamp_Debug	90b80f129f206b1f
+81	7155	7568965550341263	C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/VertigoDualCamera_autogen/mocs_compilation_Debug.cpp	90b80f129f206b1f
+81	7155	7568965550341263	C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/VertigoDualCamera_autogen/include_Debug/ui_mainwindow.h	90b80f129f206b1f
+2251	17170	7558747662086349	CMakeFiles/VertigoDualCamera.dir/Debug/main.cpp.obj	ca5951cf82c49064
+2240	17225	7558747661981555	CMakeFiles/VertigoDualCamera.dir/Debug/VertigoDualCamera_autogen/mocs_compilation_Debug.cpp.obj	89f5e4d5fc241fd5
+2257	17407	7558747662157523	CMakeFiles/VertigoDualCamera.dir/Debug/mainwindow.cpp.obj	9a484a2e7ca40b10
+17408	18736	7558747813663108	Debug/VertigoDualCamera.exe	d70a0873706240e4
+55	1212	7569921948632845	CMakeFiles/impl-Debug.ninja	42118add684aa837
+55	1212	7569921948672851	build-Debug.ninja	42118add684aa837
+55	1212	7569921948712843	CMakeFiles/impl-Release.ninja	42118add684aa837
+55	1212	7569921948762827	build-Release.ninja	42118add684aa837
+55	1212	7569921948822840	CMakeFiles/impl-RelWithDebInfo.ninja	42118add684aa837
+55	1212	7569921948852823	build-RelWithDebInfo.ninja	42118add684aa837
+55	1212	7569921948582855	build.ninja	42118add684aa837
+7310	14138	7568965553631344	CMakeFiles/VertigoDualCamera.dir/Debug/modifiedWidgets.cpp.obj	3317e8b63012f5f4
+81	7155	7568965550341263	VertigoDualCamera_autogen/include_Debug/ui_videoexporter.h	90b80f129f206b1f
+81	7155	7568965550341263	C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/VertigoDualCamera_autogen/include_Debug/ui_videoexporter.h	90b80f129f206b1f
+7161	7284	7568965553281342	VertigoDualCamera_autogen/EWIEGA46WW_Debug/qrc_assets.cpp	2e286f5a24f4e5ef
+7161	7284	7568965553281342	C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/VertigoDualCamera_autogen/EWIEGA46WW_Debug/qrc_assets.cpp	2e286f5a24f4e5ef
+7330	7579	7568965553821739	CMakeFiles/VertigoDualCamera.dir/Debug/resources.rc.res	81387d948a30a36
+7435	7985	7568965554871264	CMakeFiles/VertigoDualCamera.dir/Debug/VertigoDualCamera_autogen/EWIEGA46WW_Debug/qrc_assets.cpp.obj	f7e06ea3ac3c233d
+7318	13845	7568965553711271	CMakeFiles/VertigoDualCamera.dir/Debug/videoexporter.cpp.obj	fb9342d6e030bc4b

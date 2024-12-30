@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_VertigoDualCamera_FILE C:/Users/rahul_78wxtz2/OneDrive/Documents/VertigoDualCamera/build/Desktop_x86_windows_msvc2019_pe_32bit-Release/VertigoDualCamera.exe)
+set(__QT_DEPLOY_TARGET_VertigoDualCamera_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_VertigoDualCamera_RUNTIME_DLLS C:/Qt/6.8.0/msvc2022_64/bin/Qt6MultimediaWidgets.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6SerialPort.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Core5Compat.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Widgets.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Multimedia.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Gui.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Network.dll;C:/Qt/6.8.0/msvc2022_64/bin/Qt6Core.dll)
